@@ -4,17 +4,9 @@ A beginner-friendly ReactJS Add to Cart application that fetches products from t
 
 This project demonstrates core React concepts such as state management, props, conditional rendering, and API integration, with a clean and responsive UI built using Tailwind CSS.
 
-🔗 Live Demo
-
-👉 Netlify URL: Add your deployed Netlify link here
-
-📂 GitHub Repository
-
-👉 GitHub URL: Add your GitHub repository link here
-
 🧰 Tech Stack
 
-ReactJS – Frontend library
+ReactJS – Frontend
 
 JavaScript (ES6) – Logic & functionality
 
