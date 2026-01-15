@@ -4,6 +4,15 @@ A beginner-friendly ReactJS Add to Cart application that fetches products from t
 
 This project demonstrates core React concepts such as state management, props, conditional rendering, and API integration, with a clean and responsive UI built using Tailwind CSS.
 
+🔗 Live Demo
+
+👉 Vercel URL: https://arulstorelive.vercel.app/
+
+📂 GitHub Repository
+
+👉 GitHub URL: https://github.com/arulmozhi302-wq/arulstorelive.git
+
+
 🧰 Tech Stack
 
 ReactJS – Frontend
