@@ -4,7 +4,7 @@ const CartModal = ({ cart, closeCart, removeFromCart }) => {
         <div className="bg-white text-black w-11/12 md:w-2/3 lg:w-1/2 p-6 rounded">
         <div className="flex justify-between items-center mb-4">
             <h2 className="text-xl font-bold">Your Cart</h2>
-            <button onClick={closeCart} className="text-white font-bold">X</button>
+            <button onClick={closeCart} className="bg-black text-white font-bold">X</button>
         </div>
 
 
@@ -22,7 +22,7 @@ const CartModal = ({ cart, closeCart, removeFromCart }) => {
                 </div>
                 <button
                     onClick={() => removeFromCart(item.id)}
-                    className="bg-red-500 text-white px-3 py-1 rounded"
+                    className="bg-black text-white px-3 py-1 rounded"
                 >
                 Remove
                 </button>

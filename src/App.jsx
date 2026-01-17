@@ -58,7 +58,7 @@ return (
                 <p className="font-bold mb-3">₹ {products.price}</p>
                 <button
                     onClick={() => addToCart(products)}
-                    className="mt-auto bg-blue-600 text-white py-2 rounded"
+                    className="mt-auto bg-black text-white py-2 rounded"
                 >
                 Add to Cart
                 </button>
