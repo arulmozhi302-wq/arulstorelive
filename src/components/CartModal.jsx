@@ -1,6 +1,6 @@
 const CartModal = ({ cart, closeCart, removeFromCart }) => {
     return (
-        <div className="fixed inset-0 bg-gray-700 flex justify-center items-center">
+        <div className="fixed inset-0 bg-purple-200 flex justify-center items-center">
         <div className="bg-white text-black w-11/12 md:w-2/3 lg:w-1/2 p-6 rounded">
         <div className="flex justify-between items-center mb-4">
             <h2 className="text-xl font-bold">Your Cart</h2>
